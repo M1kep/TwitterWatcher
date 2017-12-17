@@ -1,6 +1,6 @@
 {
   "name": "twitterwatcher",
-  "version": "1.0.0",
+  "version": "1.1.0-0",
   "description": "A module used to watch twitter accounts and cache the images",
   "main": "index.js",
   "scripts": {
